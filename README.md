@@ -1,7 +1,7 @@
   
 # Hello, I'm Muhammad Latif! 👋
 
-    Welcome to my GitHub profile! I'm a dedicated student at IBA Karachi and passionate about exploring the fascinating world of AI and development. With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's embark on this learning journey together!
+Welcome to my GitHub profile! I'm a dedicated student at IBA Karachi and passionate about exploring the fascinating world of AI and development. With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's embark on this learning journey together!
 
 <br>
 
