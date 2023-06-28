@@ -1,6 +1,5 @@
 <div align="center">
-## Hello, I'm Muhammad Latif! 👋
-  <br>
+  <h1>Hello, I'm Muhammad Latif! 👋</h1>
   AI Enthusiast | Front-End Developer | Mobile and Web Developer | Student at IBA Karachi
 </div>
 
