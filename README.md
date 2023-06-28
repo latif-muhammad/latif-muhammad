@@ -1,16 +1,29 @@
 # Muhammad Latif
-
 Hello! Iam Muhammad Latif, Currently a student at IBA Karachi and passionate about exploring the fascinating world of AI and development.
 With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's explore my creative journey together!
 
-
+<br>
 ## 💻 Tech Stack
 
-- Mobile Development: Flutter, React Native
-- Web Development: HTML, CSS, JavaScript, React
-- Back-end: Python, Django, Firebase, MongoDB
-- Databases: Firebase, MongoDB
-- Version Control: Git, GitHub
+- Mobile Development: 
+  - [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) Flutter
+  -  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React Native
+  
+- Web Development:
+  -  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML,
+  -  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS,
+  -   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript, 
+  -   [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
+  
+- Back-end:
+  -  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Python
+  -  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) Django
+  -    [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) Firebase
+  -  [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  MongoDB
+  
+- Version Control: 
+  -  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) Git
+  -   [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub
 
 <br>
 
