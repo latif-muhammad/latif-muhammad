@@ -1,5 +1,4 @@
   
-
 # Hello, I'm Muhammad Latif! 👋
 
 ### AI Enthusiast | Front-End Developer | Mobile and Web Developer | Student at IBA Karachi
@@ -8,6 +7,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated student at IBA Karachi and passionate about exploring the fascinating world of AI and development. With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's embark on this learning journey together!
 
+<br>
 
 ## 🔭 Featured Projects
 
@@ -27,6 +27,8 @@ Welcome to my GitHub profile! I'm a dedicated student at IBA Karachi and passion
 
   I have built many small scale application, games etc. Feel free to check on them too.
 
+<br>
+
 ## 🌱 Currently Learning
 
 As an AI enthusiast and developer, I'm continuously expanding my skill set to stay at the forefront of technology. Here are some topics I'm currently exploring:
@@ -36,6 +38,8 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 - Serverless computing with AWS Lambda and Google Cloud Functions
 - Data visualization using libraries such as Pandas and Matplotlib
 
+<br>
+
 ## 💻 Tech Stack
 
 - Mobile Development: Flutter, React Native
@@ -43,6 +47,8 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 - Back-end: Python, Django, Firebase, MongoDB
 - Databases: Firebase, MongoDB
 - Version Control: Git, GitHub
+
+<br>
 
 ## 📫 Let's Connect
 
