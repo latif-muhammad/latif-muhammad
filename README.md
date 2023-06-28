@@ -6,19 +6,19 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 
 ## 💻 Tech Stack
 
-- Mobile Development
+- ### Mobile Development
   
   [![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
   
-- Web Development
+- ### Web Development
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
   
-- Back-end
+- ### Back-end
 
    [![My Skills](https://skillicons.dev/icons?i=python,django,firebase,mongodb)](https://skillicons.dev)
   
-- Version Control:
+- ### Version Control:
   
     [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
