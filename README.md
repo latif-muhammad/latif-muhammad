@@ -35,23 +35,27 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 - Data visualization using libraries such as Pandas and Matplotlib
 
 <br>
+
 ## 🔭 Featured Projects
 
-### Project 1: AI-powered Image Recognition
+- ### Project 1: AI-powered Image Recognition
 
   A Web Bases application developed with Django and TensorFlow, capable of recognizing Digits in a number Plate using pre-trained AI models. This project demonstrates my skills in integrating AI technologies with Web app.
 
-### Project 2: Personal Website
+- ### Project 2: Personal Website
 
   A responsive web portfolio created using HTML, CSS, and JavaScript, showcasing my skills and projects. The website incorporates interactive elements and animations, reflecting my creativity and front-end development expertise.
 
-### Project 3: Task Management App
+- ### Project 3: Task Management App
 
   A cross-platform task management application built with React Native and powered by Firebase for real-time updates. This project showcases my proficiency in mobile app development and my ability to integrate cloud-based services.
 
-### Project 3: Other  Projects
+- ### Project 3: Other  Projects
 
   I have built many small scale application, games etc. Feel free to check on them too.
+
+
+<br>
 
 ## 📫 Let's Connect
 
