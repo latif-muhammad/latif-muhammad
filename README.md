@@ -1,15 +1,16 @@
-<h1 align="center">Hello! 👋</h1>
-
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Muhammad Latif.<br>
-        Currently a student at IBA Karachi and passionate about exploring the fascinating world of AI and development. <br>
-        With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's explore my creative journey together!<br>
-    </i><br>
-</p>
+### Muhammad Latif
+<br>
+Hello! Iam Muhammad Latif, Currently a student at IBA Karachi and passionate about exploring the fascinating world of AI and development.
+With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's explore my creative journey together!
 
 
+## 💻 Tech Stack
+
+- Mobile Development: Flutter, React Native
+- Web Development: HTML, CSS, JavaScript, React
+- Back-end: Python, Django, Firebase, MongoDB
+- Databases: Firebase, MongoDB
+- Version Control: Git, GitHub
 
 <br>
 
@@ -21,16 +22,6 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 - Deep learning frameworks like TensorFlow and PyTorch
 - Serverless computing with AWS Lambda and Google Cloud Functions
 - Data visualization using libraries such as Pandas and Matplotlib
-
-<br>
-
-## 💻 Tech Stack
-
-- Mobile Development: Flutter, React Native
-- Web Development: HTML, CSS, JavaScript, React
-- Back-end: Python, Django, Firebase, MongoDB
-- Databases: Firebase, MongoDB
-- Version Control: Git, GitHub
 
 <br>
 ## 🔭 Featured Projects
@@ -50,7 +41,7 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 ### Project 3: Other  Projects
 
   I have built many small scale application, games etc. Feel free to check on them too.
-  
+
 ## 📫 Let's Connect
 
   I'm always eager to collaborate on exciting projects or discuss the latest advancements in AI and development. Feel free to reach out to me via email or connect with me on LinkedIn. Let's shape the future with technology!
