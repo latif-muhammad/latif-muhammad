@@ -8,7 +8,7 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 
 - Mobile Development
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev),
+  [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   
 - Web Development
@@ -26,6 +26,7 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
   
 - Version Control: 
+<br>
     [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
