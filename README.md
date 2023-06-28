@@ -1,6 +1,7 @@
   
 
-## Hello, I'm Muhammad Latif! 👋
+# Hello, I'm Muhammad Latif! 👋
+
 ### AI Enthusiast | Front-End Developer | Mobile and Web Developer | Student at IBA Karachi
 
 <br>
