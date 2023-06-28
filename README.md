@@ -1,11 +1,10 @@
-<div align="center">
   
-  ## Hello, I'm Muhammad Latif! 👋
-
-  <p>AI Enthusiast | Front-End Developer | Mobile and Web Developer | Student at IBA Karachi</p>
-</div>
+## Hello, I'm Muhammad Latif! 👋
 
 ---
+
+<p> AI Enthusiast | Front-End Developer | Mobile and Web Developer | Student at IBA Karachi</p>
+
 
 Welcome to my GitHub profile! I'm a dedicated student at IBA Karachi and passionate about exploring the fascinating world of AI and development. With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's embark on this learning journey together!
 
