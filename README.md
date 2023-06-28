@@ -8,27 +8,19 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 
 - Mobile Development
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
   
 - Web Development
 <br>
-   [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
   
 - Back-end
 <br>
-   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-    [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-      [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=python,django,firebase,mongodb)](https://skillicons.dev)
   
 - Version Control: 
 <br>
-    [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <br>
 
