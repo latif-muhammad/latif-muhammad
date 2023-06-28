@@ -3,27 +3,31 @@ Hello! Iam Muhammad Latif, Currently a student at IBA Karachi and passionate abo
 With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's explore my creative journey together!
 
 <br>
+
 ## 💻 Tech Stack
 
-- Mobile Development: 
-  - [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) Flutter
-  -  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React Native
+- Mobile Development
+<br>
+  [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   
-- Web Development:
-  -  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML,
-  -  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS,
-  -   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript, 
-  -   [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
+- Web Development
+<br>
+   [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   
-- Back-end:
-  -  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Python
-  -  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) Django
-  -    [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) Firebase
-  -  [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  MongoDB
+- Back-end
+<br>
+   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
   
 - Version Control: 
-  -  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) Git
-  -   [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) GitHub
+    [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 <br>
 
