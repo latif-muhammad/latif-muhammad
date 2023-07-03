@@ -52,7 +52,7 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 
 - ### Project 3: Other  Projects
 
-  I have built many small scale application, games etc. Feel free to check on them too.
+  I have built many other small and large scale application, games etc. Feel free to check on them too.
 
 
 <br>
