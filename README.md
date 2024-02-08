@@ -1,5 +1,5 @@
 # Muhammad Latif
-Hello! Iam Muhammad Latif, Currently a student at IBA Karachi and passionate about exploring the fascinating world of AI and development.
+Hello! I am Muhammad Latif, Currently a student at IBA Karachi and passionate about exploring the fascinating world of AI and development.
 With expertise in Flutter, React, React Native, and Python, I enjoy building innovative solutions and pushing the boundaries of technology. Let's explore my creative journey together!
 
 <br>
