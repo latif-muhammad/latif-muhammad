@@ -42,7 +42,7 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 
   A Web Bases application developed with Django and TensorFlow, capable of recognizing Digits in a number Plate using pre-trained AI models. This project demonstrates my skills in integrating AI technologies with Web app.
 
-- ### Project 2: Personal Website
+- ### Project 2: Portfolio Website
 
   A responsive web portfolio created using HTML, CSS, and JavaScript, showcasing my skills and projects. The website incorporates interactive elements and animations, reflecting my creativity and front-end development expertise.
 
